@@ -16,6 +16,9 @@ public class de extends HttpServlet {
 		response.getWriter().write("<from> ĞÕÃû<input></input> </br>ÄêÁä<input></input> </form>");
 		
 
+		
+		
+		
 		// response.getWriter().write("yuiiiiiiiii");
 		
 	}
